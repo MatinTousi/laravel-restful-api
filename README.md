@@ -101,9 +101,9 @@ Accept: application/json
 ```js
 POST /api/admin/logout
 ```
-::: warning
-This deletes the current access token.
-:::
+> [!WARNING]  
+>This deletes the current access token.
+
 ___
 ### 📂 Protected Routes (Require Token)
 Method	Endpoint	Description
