@@ -140,29 +140,7 @@ To set up the database after cloning the project:
 php artisan migrate
 php artisan db:seed
 
-This ensures a clean, secure, and reproducible database setup without exposing sensitive data.
-___
-### 🧪 Testing
-
-All endpoints were tested using Postman
-
-Use Bearer Token for authentication
-
-Ensure Accept: application/json header is set
-
-📖 Learning Purpose
-
-This project demonstrates:
-
-Laravel API Development
-
-Token Authentication with Sanctum
-
-Custom Guards for Admin
-
-Middleware Protection
-
-RESTful API Design Principles
+ This ensures a clean, secure, and reproducible database setup without exposing sensitive data. 
 ___
 ### 👨‍💻 Author
 
@@ -170,13 +148,4 @@ Matin Tousi
 
 
 Backend Developer Laravel
-___
-##  🌟 Optional Enhancements
 
-Add Role-based access control (RBAC)
-
-Pagination and Resource Responses for Posts
-
-API Documentation using Swagger or Postman Collection
-
-Badges for Build Status or Coverage
