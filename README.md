@@ -90,9 +90,9 @@ Response:
 
 ## 3️⃣ Using Token in Postman
 
-==Set Authorization → Bearer Token==
+Set Authorization → Bearer Token
 
-==Paste your token from login response==
+Paste your token from login response
 
 ### Add Header:
 
